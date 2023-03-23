@@ -1,0 +1,45 @@
+span{
+    color:red;
+}
+body{
+    background: url(https://tvoyposter.ru/userdata/image/thumbs/p/16/03/1603736ffa2e843c219d7f93ba8bc087_p.jpg);
+    background-size: 100%;
+}
+h1{
+    width: 200px;
+    height: 90px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    margin: auto;
+    border-radius: 25px;
+}
+.media {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTMT7r7yeHfgAigGHUTuAi8DAdhCJY-0WW4A&usqp=CAU);
+    background-size: 100%;
+    width: 1000px;
+    height: 600px;
+    border-radius: 25px;
+    margin: auto;
+}
+.list-point {
+    Display:inline-block;
+    margin: 50px 50px 50px 50px;
+}
+.list-point2 {
+    Display:inline-block;
+    margin: 50px 50px 50px 50px;
+}
+.point-player{
+    text-align: center;
+    background-color:rgba(255, 255, 0, 0.588);
+    border-radius: 20px;
+    width: 300px;
+    padding: 20px;
+    margin: 50px 0px 70px 0px;
+}
+.point-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
